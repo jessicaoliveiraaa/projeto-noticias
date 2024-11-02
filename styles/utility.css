@@ -23,7 +23,7 @@
 }
 
 .text-xl {
-  fonte: var(--h2);
+  font: var(--h2);
 }
 
 .text-lg {
